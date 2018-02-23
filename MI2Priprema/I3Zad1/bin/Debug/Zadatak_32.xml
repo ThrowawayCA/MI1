@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Izvodjac>
+    <IDIzvodjac>1</IDIzvodjac>
+    <Ime>Edo Maajka</Ime>
+  </Izvodjac>
+  <Izvodjac>
+    <IDIzvodjac>2</IDIzvodjac>
+    <Ime>Yammat</Ime>
+  </Izvodjac>
+  <Izvodjac>
+    <IDIzvodjac>3</IDIzvodjac>
+    <Ime>TBF</Ime>
+  </Izvodjac>
+  <Album>
+    <IDAlbum>1</IDAlbum>
+    <IzvodjacID>1</IzvodjacID>
+    <NaslovAlbuma>No Sikiriki</NaslovAlbuma>
+  </Album>
+  <Album>
+    <IDAlbum>2</IDAlbum>
+    <IzvodjacID>1</IzvodjacID>
+    <NaslovAlbuma>Slušaj mater</NaslovAlbuma>
+  </Album>
+  <Album>
+    <IDAlbum>3</IDAlbum>
+    <IzvodjacID>1</IzvodjacID>
+    <NaslovAlbuma>Balkansko a Naše</NaslovAlbuma>
+  </Album>
+  <Album>
+    <IDAlbum>4</IDAlbum>
+    <IzvodjacID>2</IzvodjacID>
+    <NaslovAlbuma>Kompilacija</NaslovAlbuma>
+  </Album>
+  <Album>
+    <IDAlbum>5</IDAlbum>
+    <IzvodjacID>2</IzvodjacID>
+    <NaslovAlbuma>Plan B</NaslovAlbuma>
+  </Album>
+  <Album>
+    <IDAlbum>6</IDAlbum>
+    <IzvodjacID>3</IzvodjacID>
+    <NaslovAlbuma>Maxon Universal</NaslovAlbuma>
+  </Album>
+  <Album>
+    <IDAlbum>7</IDAlbum>
+    <IzvodjacID>3</IzvodjacID>
+    <NaslovAlbuma>PingPong</NaslovAlbuma>
+  </Album>
+  <Album>
+    <IDAlbum>8</IDAlbum>
+    <IzvodjacID>3</IzvodjacID>
+    <NaslovAlbuma>Uskladimo toplomjere</NaslovAlbuma>
+  </Album>
+  <Album>
+    <IDAlbum>9</IDAlbum>
+    <IzvodjacID>3</IzvodjacID>
+    <NaslovAlbuma>Pistaccio Metallic</NaslovAlbuma>
+  </Album>
+</NewDataSet>

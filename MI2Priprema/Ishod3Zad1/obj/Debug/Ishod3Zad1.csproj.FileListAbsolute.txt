@@ -1,0 +1,7 @@
+C:\Users\lukav\source\repos\MI2Priprema\Ishod3Zad1\bin\Debug\Ishod3Zad1.exe.config
+C:\Users\lukav\source\repos\MI2Priprema\Ishod3Zad1\bin\Debug\Ishod3Zad1.exe
+C:\Users\lukav\source\repos\MI2Priprema\Ishod3Zad1\bin\Debug\Ishod3Zad1.pdb
+C:\Users\lukav\source\repos\MI2Priprema\Ishod3Zad1\obj\Debug\Ishod3Zad1.csproj.CoreCompileInputs.cache
+C:\Users\lukav\source\repos\MI2Priprema\Ishod3Zad1\obj\Debug\Ishod3Zad1.exe
+C:\Users\lukav\source\repos\MI2Priprema\Ishod3Zad1\obj\Debug\Ishod3Zad1.pdb
+C:\Users\lukav\source\repos\MI2Priprema\Ishod3Zad1\obj\Debug\Ishod3Zad1.csprojResolveAssemblyReference.cache

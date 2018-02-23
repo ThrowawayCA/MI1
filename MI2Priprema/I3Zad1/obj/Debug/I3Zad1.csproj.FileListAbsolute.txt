@@ -1,0 +1,10 @@
+C:\Users\lukav\source\repos\MI2Priprema\I3Zad1\obj\Debug\I3Zad1.csprojResolveAssemblyReference.cache
+C:\Users\lukav\source\repos\MI2Priprema\I3Zad1\obj\Debug\I3Zad1.Properties.Resources.resources
+C:\Users\lukav\source\repos\MI2Priprema\I3Zad1\obj\Debug\I3Zad1.csproj.GenerateResource.Cache
+C:\Users\lukav\source\repos\MI2Priprema\I3Zad1\obj\Debug\I3Zad1.csproj.CoreCompileInputs.cache
+C:\Users\lukav\source\repos\MI2Priprema\I3Zad1\bin\Debug\I3Zad1.exe.config
+C:\Users\lukav\source\repos\MI2Priprema\I3Zad1\bin\Debug\I3Zad1.exe
+C:\Users\lukav\source\repos\MI2Priprema\I3Zad1\bin\Debug\I3Zad1.pdb
+C:\Users\lukav\source\repos\MI2Priprema\I3Zad1\obj\Debug\I3Zad1.Form1.resources
+C:\Users\lukav\source\repos\MI2Priprema\I3Zad1\obj\Debug\I3Zad1.exe
+C:\Users\lukav\source\repos\MI2Priprema\I3Zad1\obj\Debug\I3Zad1.pdb
